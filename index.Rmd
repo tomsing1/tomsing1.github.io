@@ -1,0 +1,28 @@
+---
+title: "Thomas Sandmann"
+image: "profile.jpg"
+links:
+  - label: Blog
+    url: "https://tomsing1.github.io/blog"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/thomas-sandmann"
+  - label: Twitter
+    url: "https://twitter.com/thomas_sandmann"
+  - label: GitHub
+    url: "https://github.com/tomsing1"
+  - label: Email
+    url: "mailto:tomsing1@gmail.com"
+output:
+  postcards::trestles
+knit: (function(input, ...) {
+    rmarkdown::render(input,output_dir = "docs"
+    )
+  })
+---
+ 
+I am a Computational Biologist living in the San Francisco Bay Area. 
+Currently I work at 
+[Denali Therapeutics](https://www.denalitherapeutics.com/) in South San 
+Francisco. 
+I love talking about genomics, R programming, economics podcasts and new ways
+of doing science.
