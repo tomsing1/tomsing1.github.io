@@ -20,7 +20,7 @@ knit: (function(input, ...) {
   })
 ---
 
-<a rel="me" href="https://mastodon.social/@thomas_sandmann"></a>
+<a rel="me" href="https://genomic.social/@thomas_sandmann"></a>
 
 I am a Computational Biologist living in the San Francisco Bay Area. 
 Currently I work at 
