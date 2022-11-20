@@ -6,8 +6,6 @@ links:
     url: "https://tomsing1.github.io/blog"
   - label: LinkedIn
     url: "https://www.linkedin.com/in/thomas-sandmann"
-  - label: Twitter
-    url: "https://twitter.com/thomas_sandmann"
   - label: GitHub
     url: "https://github.com/tomsing1"
   - label: Email
