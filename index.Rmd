@@ -4,6 +4,8 @@ image: "profile.jpg"
 links:
   - label: Blog
     url: "https://tomsing1.github.io/blog"
+  - label: '<i class="fab fa-mastodon fa-lg"></i>'
+    url: "https://genomic.social/\\@thomas_sandmann"
   - label: LinkedIn
     url: "https://www.linkedin.com/in/thomas-sandmann"
   - label: GitHub
