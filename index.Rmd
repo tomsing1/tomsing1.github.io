@@ -2,15 +2,15 @@
 title: "Thomas Sandmann"
 image: "profile.jpg"
 links:
-  - label: Blog
+  - label: '`r fontawesome::fa("blog", height = "25px")`'
     url: "https://tomsing1.github.io/blog"
-  - label: Mastodon
+  - label: '`r fontawesome::fa("mastodon", height = "25px")`'
     url: "https://genomic.social/\\@thomas_sandmann"
-  - label: LinkedIn
+  - label: '`r fontawesome::fa("linkedin", height = "25px")`'
     url: "https://www.linkedin.com/in/thomas-sandmann"
-  - label: GitHub
+  - label: '`r fontawesome::fa("github", height = "25px")`'
     url: "https://github.com/tomsing1"
-  - label: Email
+  - label: '`r fontawesome::fa("envelope", height = "25px")`'
     url: "mailto:tomsing1@gmail.com"
 output:
   postcards::trestles
